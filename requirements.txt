@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+requests
+pdfplumber
+python-docx
+olefile
+urllib3
